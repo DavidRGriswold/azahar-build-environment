@@ -1,4 +1,4 @@
-# build-environment
+# azahar-build-environment
 
 Dockerfile for the Docker environment used to build Azahar binaries and perform other CI/CD tasks.
 
